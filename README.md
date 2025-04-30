@@ -1,16 +1,17 @@
 # flutter_qr
 
-A new Flutter project.
+Generate QR codes from plain text
 
-## Getting Started
+Save QR code images to device storage
 
-This project is a starting point for a Flutter application.
+Share QR code images with other apps
 
-A few resources to get you started if this is your first Flutter project:
+Scan QR codes using the device camera
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| image              | image               | image               | 
+| ---------------------- | ---------------------- | ---------------------- | 
+| ![1](https://github.com/user-attachments/assets/806df55b-d780-4394-84e9-52ae8912d1d3) | ![2](https://github.com/user-attachments/assets/9c1812d8-65cb-4c57-a0b4-2ae0613bd98c) | ![3](https://github.com/user-attachments/assets/74e9fc7f-c1fe-4b2a-abfa-6b8f589c5184) |  
+| ![6](https://github.com/user-attachments/assets/805d1e6a-cd43-45f7-97a2-17adcbf4877d) | ![5](https://github.com/user-attachments/assets/d27bb83c-5f5e-46b9-be5b-79b7381d5d66) | ![4](https://github.com/user-attachments/assets/9613dd24-21f8-4947-9eff-fe8f3990a7da) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![7](https://github.com/user-attachments/assets/aff52ea0-f33e-4cf0-916e-bb00f46ad728)
